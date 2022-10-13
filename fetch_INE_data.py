@@ -20,7 +20,7 @@ response_lang = "PT"
 # Indicator code. Each code is specific for one indicator. Ex:
 # 0000010: Importações (€) de bens por Local de origem e Tipo de bem, produto por atividade (CPA 2002 ) - Anual - INE, Estatísticas do comércio internacional de bens
 # 0000020: Produção das principais culturas agrícolas (t) por Localização geográfica (NUTS - 2013) e Espécie - Anual - INE, Estatísticas da produção vegetal
-varcd_cod = "0000005" ## EDIT HERE
+varcd_cod = "0000020" ## EDIT HERE
 
 ############# TEMPORAL DIMENSION #############
 # Initial year (inclusive)
